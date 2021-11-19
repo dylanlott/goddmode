@@ -1,0 +1,6 @@
+[submodule "hugo-creative-portfolio-theme"]
+	path = hugo-creative-portfolio-theme
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
